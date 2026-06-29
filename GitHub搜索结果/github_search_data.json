@@ -1,0 +1,318 @@
+[
+  {
+    "name": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "stars": 121817,
+    "language": "C++",
+    "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "keywords": [
+      "electron desktop app"
+    ]
+  },
+  {
+    "name": "browser-use/browser-use",
+    "url": "https://github.com/browser-use/browser-use",
+    "stars": 101253,
+    "language": "Python",
+    "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "keywords": [
+      "playwright"
+    ]
+  },
+  {
+    "name": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "stars": 91844,
+    "language": "TypeScript",
+    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+    "keywords": [
+      "playwright"
+    ]
+  },
+  {
+    "name": "D4Vinci/Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "stars": 66929,
+    "language": "Python",
+    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "keywords": [
+      "playwright"
+    ]
+  },
+  {
+    "name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "stars": 44900,
+    "language": "Python",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "keywords": [
+      "xiaohongshu api"
+    ]
+  },
+  {
+    "name": "vercel-labs/agent-browser",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "stars": 37459,
+    "language": "Rust",
+    "description": "Browser automation CLI for AI agents",
+    "keywords": [
+      "browser automation"
+    ]
+  },
+  {
+    "name": "microsoft/playwright-mcp",
+    "url": "https://github.com/microsoft/playwright-mcp",
+    "stars": 34487,
+    "language": "TypeScript",
+    "description": "Playwright MCP server",
+    "keywords": [
+      "playwright"
+    ]
+  },
+  {
+    "name": "SeleniumHQ/selenium",
+    "url": "https://github.com/SeleniumHQ/selenium",
+    "stars": 34235,
+    "language": "Java",
+    "description": "A browser automation framework and ecosystem.",
+    "keywords": [
+      "browser automation"
+    ]
+  },
+  {
+    "name": "gitroomhq/postiz-app",
+    "url": "https://github.com/gitroomhq/postiz-app",
+    "stars": 32464,
+    "language": "TypeScript",
+    "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+    "keywords": [
+      "social media scheduler"
+    ]
+  },
+  {
+    "name": "lightpanda-io/browser",
+    "url": "https://github.com/lightpanda-io/browser",
+    "stars": 31483,
+    "language": "Zig",
+    "description": "Lightpanda: the headless browser designed for AI and automation",
+    "keywords": [
+      "browser automation",
+      "playwright"
+    ]
+  },
+  {
+    "name": "ariya/phantomjs",
+    "url": "https://github.com/ariya/phantomjs",
+    "stars": 29460,
+    "language": "C++",
+    "description": "Scriptable Headless Browser",
+    "keywords": [
+      "browser automation"
+    ]
+  },
+  {
+    "name": "CloakHQ/CloakBrowser",
+    "url": "https://github.com/CloakHQ/CloakBrowser",
+    "stars": 27356,
+    "language": "Python",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "keywords": [
+      "playwright"
+    ]
+  },
+  {
+    "name": "jackwener/OpenCLI",
+    "url": "https://github.com/jackwener/OpenCLI",
+    "stars": 25560,
+    "language": "JavaScript",
+    "description": "Make Any Website into CLI & Use your logged-in browser by AI agent. ",
+    "keywords": [
+      "playwright"
+    ]
+  },
+  {
+    "name": "nylas/nylas-mail",
+    "url": "https://github.com/nylas/nylas-mail",
+    "stars": 24741,
+    "language": "JavaScript",
+    "description": ":love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!",
+    "keywords": [
+      "electron desktop app"
+    ]
+  },
+  {
+    "name": "apify/crawlee",
+    "url": "https://github.com/apify/crawlee",
+    "stars": 24215,
+    "language": "TypeScript",
+    "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o",
+    "keywords": [
+      "browser automation",
+      "playwright"
+    ]
+  },
+  {
+    "name": "browserbase/stagehand",
+    "url": "https://github.com/browserbase/stagehand",
+    "stars": 23271,
+    "language": "TypeScript",
+    "description": "The SDK For Browser Agents",
+    "keywords": [
+      "playwright"
+    ]
+  },
+  {
+    "name": "Skyvern-AI/skyvern",
+    "url": "https://github.com/Skyvern-AI/skyvern",
+    "stars": 22030,
+    "language": "Python",
+    "description": "Automate browser based workflows with AI",
+    "keywords": [
+      "rpa automation",
+      "browser automation",
+      "playwright"
+    ]
+  },
+  {
+    "name": "AutomaApp/automa",
+    "url": "https://github.com/AutomaApp/automa",
+    "stars": 21447,
+    "language": "Vue",
+    "description": "A browser extension for automating your browser by connecting blocks",
+    "keywords": [
+      "browser automation"
+    ]
+  },
+  {
+    "name": "segment-boneyard/nightmare",
+    "url": "https://github.com/segment-boneyard/nightmare",
+    "stars": 19777,
+    "language": "JavaScript",
+    "description": "A high-level browser automation library.",
+    "keywords": [
+      "browser automation"
+    ]
+  },
+  {
+    "name": "Evil0ctal/Douyin_TikTok_Download_API",
+    "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+    "stars": 18541,
+    "language": "Python",
+    "description": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。",
+    "keywords": [
+      "douyin api",
+      "tiktok api"
+    ]
+  },
+  {
+    "name": "getmaxun/maxun",
+    "url": "https://github.com/getmaxun/maxun",
+    "stars": 16027,
+    "language": "TypeScript",
+    "description": "🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥 ",
+    "keywords": [
+      "rpa automation"
+    ]
+  },
+  {
+    "name": "JoeanAmier/TikTokDownloader",
+    "url": "https://github.com/JoeanAmier/TikTokDownloader",
+    "stars": 14944,
+    "language": "Python",
+    "description": "TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具",
+    "keywords": [
+      "douyin api",
+      "tiktok api"
+    ]
+  },
+  {
+    "name": "nanobrowser/nanobrowser",
+    "url": "https://github.com/nanobrowser/nanobrowser",
+    "stars": 13373,
+    "language": "TypeScript",
+    "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
+    "keywords": [
+      "browser automation"
+    ]
+  },
+  {
+    "name": "bitwarden/clients",
+    "url": "https://github.com/bitwarden/clients",
+    "stars": 13147,
+    "language": "TypeScript",
+    "description": "Bitwarden client apps (web, browser extension, desktop, and cli).",
+    "keywords": [
+      "electron desktop app"
+    ]
+  },
+  {
+    "name": "ultrafunkamsterdam/undetected-chromedriver",
+    "url": "https://github.com/ultrafunkamsterdam/undetected-chromedriver",
+    "stars": 12724,
+    "language": "Python",
+    "description": "Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)",
+    "keywords": [
+      "browser automation"
+    ]
+  },
+  {
+    "name": "JoeanAmier/XHS-Downloader",
+    "url": "https://github.com/JoeanAmier/XHS-Downloader",
+    "stars": 11733,
+    "language": "Python",
+    "description": "小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件",
+    "keywords": [
+      "xiaohongshu api"
+    ]
+  },
+  {
+    "name": "robotframework/robotframework",
+    "url": "https://github.com/robotframework/robotframework",
+    "stars": 11714,
+    "language": "Python",
+    "description": "Generic automation framework for acceptance testing and RPA",
+    "keywords": [
+      "rpa automation"
+    ]
+  },
+  {
+    "name": "go-vgo/robotgo",
+    "url": "https://github.com/go-vgo/robotgo",
+    "stars": 10733,
+    "language": "Go",
+    "description": "RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar",
+    "keywords": [
+      "rpa automation"
+    ]
+  },
+  {
+    "name": "HBAI-Ltd/Toonflow-app",
+    "url": "https://github.com/HBAI-Ltd/Toonflow-app",
+    "stars": 10718,
+    "language": "TypeScript",
+    "description": "Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI sc",
+    "keywords": [
+      "electron desktop app"
+    ]
+  },
+  {
+    "name": "distribution/distribution",
+    "url": "https://github.com/distribution/distribution",
+    "stars": 10487,
+    "language": "Go",
+    "description": "The toolkit to pack, ship, store, and deliver container content",
+    "keywords": [
+      "content distribution"
+    ]
+  },
+  {
+    "name": "webtorrent/webtorrent-desktop",
+    "url": "https://github.com/webtorrent/webtorrent-desktop",
+    "stars": 10076,
+    "language": "JavaScript",
+    "description": "❤️ Streaming torrent app for Mac, Windows, and Linux",
+    "keywords": [
+      "electron desktop app"
+    ]
+  }
+]
