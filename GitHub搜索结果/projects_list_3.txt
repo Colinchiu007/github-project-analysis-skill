@@ -1,0 +1,1782 @@
+﻿301. Yoctol/bottender (4,279 stars, TypeScript)
+   URL: https://github.com/Yoctol/bottender
+   Desc: 鈿★笍 A framework for building conversational user interfaces.
+   Keywords: telegram bot, slack bot
+   License: MIT
+
+302. fabien-d/alertify.js (4,225 stars, JavaScript)
+   URL: https://github.com/fabien-d/alertify.js
+   Desc: JavaScript Alert/Notification System
+   Keywords: notification system
+   License: N/A
+
+303. anasty17/mirror-leech-telegram-bot (4,217 stars, Python)
+   URL: https://github.com/anasty17/mirror-leech-telegram-bot
+   Desc: Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any f
+   Keywords: telegram bot
+   License: GPL-3.0
+
+304. OscarGodson/EpicEditor (4,215 stars, JavaScript)
+   URL: https://github.com/OscarGodson/EpicEditor
+   Desc: EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft s
+   Keywords: markdown editor
+   License: MIT
+
+305. zhayujie/bot-on-anything (4,199 stars, Python)
+   URL: https://github.com/zhayujie/bot-on-anything
+   Desc: A large model-based chatbot builder that can quickly integrate AI models (including ChatGPT, Claude, Gemini) into variou
+   Keywords: telegram bot, slack bot
+   License: MIT
+
+306. anthonynsimon/bild (4,196 stars, Go)
+   URL: https://github.com/anthonynsimon/bild
+   Desc: Image processing algorithms in pure Go
+   Keywords: image processing
+   License: MIT
+
+307. simov/grant (4,175 stars, JavaScript)
+   URL: https://github.com/simov/grant
+   Desc: OAuth Proxy
+   Keywords: oauth authentication
+   License: MIT
+
+308. teloxide/teloxide (4,170 stars, Rust)
+   URL: https://github.com/teloxide/teloxide
+   Desc: 馃 An elegant Telegram bots framework for Rust
+   Keywords: telegram bot
+   License: MIT
+
+309. DopplerHQ/awesome-bots (4,156 stars, N/A)
+   URL: https://github.com/DopplerHQ/awesome-bots
+   Desc: The most awesome list about bots 猸愶笍馃
+   Keywords: slack bot
+   License: N/A
+
+310. Alex-D/Trumbowyg (4,149 stars, JavaScript)
+   URL: https://github.com/Alex-D/Trumbowyg
+   Desc: A lightweight and amazing WYSIWYG JavaScript editor under 10kB
+   Keywords: wysiwyg editor
+   License: MIT
+
+311. sjqzhang/go-fastdfs (4,137 stars, Go)
+   URL: https://github.com/sjqzhang/go-fastdfs
+   Desc: go-fastdfs 鏄竴涓畝鍗曠殑鍒嗗竷寮忔枃浠剁郴缁?绉佹湁浜戝瓨鍌?锛屽叿鏈夋棤涓績銆侀珮鎬ц兘锛岄珮鍙潬锛屽厤缁存姢绛変紭鐐癸紝鏀寔鏂偣缁紶锛屽垎鍧椾笂浼狅紝灏忔枃浠跺悎骞讹紝鑷姩鍚屾锛岃嚜鍔ㄤ慨澶嶃€侴o-fastdfs is a simple distributed file
+   Keywords: cloud sync
+   License: Unlicense
+
+312. YILS-LIN/short-video-factory (4,132 stars, TypeScript)
+   URL: https://github.com/YILS-LIN/short-video-factory
+   Desc: 涓€閿敓鎴愪骇鍝佽惀閿€涓庢硾鍐呭鐭棰戯紝AI鎵归噺鑷姩鍓緫锛岄珮棰滃€艰法骞冲彴妗岄潰绔伐鍏?One click generation of product marketing and general content short videos, AI batc
+   Keywords: desktop automation
+   License: AGPL-3.0
+
+313. jhollingworth/bootstrap-wysihtml5 (4,118 stars, JavaScript)
+   URL: https://github.com/jhollingworth/bootstrap-wysihtml5
+   Desc: Simple, beautiful wysiwyg editor
+   Keywords: wysiwyg editor
+   License: MIT
+
+314. pystardust/ytfzf (4,108 stars, Shell)
+   URL: https://github.com/pystardust/ytfzf
+   Desc: A posix script to find and watch youtube videos from the terminal. (Without API)
+   Keywords: youtube api
+   License: GPL-3.0
+
+315. magnitudedev/browser-agent (4,089 stars, TypeScript)
+   URL: https://github.com/magnitudedev/browser-agent
+   Desc: Open-source, vision-first browser agent
+   Keywords: rpa automation, browser automation
+   License: Apache-2.0
+
+316. nklayman/vue-cli-plugin-electron-builder (4,080 stars, JavaScript)
+   URL: https://github.com/nklayman/vue-cli-plugin-electron-builder
+   Desc: Easily Build Your Vue.js App For Desktop With Electron
+   Keywords: electron desktop app
+   License: MIT
+
+317. tradesdontlie/tradingview-mcp (4,038 stars, JavaScript)
+   URL: https://github.com/tradesdontlie/tradingview-mcp
+   Desc: AI-assisted TradingView chart analysis 鈥?connect Claude Code to your TradingView Desktop for personal workflow automatio
+   Keywords: desktop automation
+   License: NOASSERTION
+
+318. nextauthjs/next-auth-example (4,029 stars, TypeScript)
+   URL: https://github.com/nextauthjs/next-auth-example
+   Desc: Example showing how to use NextAuth.js with Next.js
+   Keywords: oauth authentication
+   License: ISC
+
+319. php-telegram-bot/core (4,018 stars, PHP)
+   URL: https://github.com/php-telegram-bot/core
+   Desc: PHP Telegram Bot based on the official Telegram Bot API
+   Keywords: telegram bot
+   License: MIT
+
+320. bisguzar/twitter-scraper (4,014 stars, Python)
+   URL: https://github.com/bisguzar/twitter-scraper
+   Desc: Scrape the Twitter Frontend API without authentication.
+   Keywords: twitter api
+   License: MIT
+
+321. GetmeUK/ContentTools (3,978 stars, JavaScript)
+   URL: https://github.com/GetmeUK/ContentTools
+   Desc: A JS library for building WYSIWYG editors for HTML content.
+   Keywords: wysiwyg editor
+   License: MIT
+
+322. IBM/mcp-context-forge (3,975 stars, Python)
+   URL: https://github.com/IBM/mcp-context-forge
+   Desc: An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint wi
+   Keywords: rest api tool
+   License: Apache-2.0
+
+323. cshum/imagor (3,973 stars, Go)
+   URL: https://github.com/cshum/imagor
+   Desc: Fast, secure image processing server and Go library, using libvips
+   Keywords: image processing
+   License: Apache-2.0
+
+324. lektor/lektor (3,943 stars, Python)
+   URL: https://github.com/lektor/lektor
+   Desc: The lektor static file content management system
+   Keywords: content management system
+   License: BSD-3-Clause
+
+325. yuruotong1/autoMate (3,930 stars, Python)
+   URL: https://github.com/yuruotong1/autoMate
+   Desc: Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant th
+   Keywords: rpa automation
+   License: MIT
+
+326. PokemonGoF/PokemonGo-Bot (3,899 stars, Python)
+   URL: https://github.com/PokemonGoF/PokemonGo-Bot
+   Desc: The Pokemon Go Bot, baking with community.
+   Keywords: telegram bot, slack bot
+   License: MIT
+
+327. m1guelpf/chatgpt-telegram (3,886 stars, Go)
+   URL: https://github.com/m1guelpf/chatgpt-telegram
+   Desc: Run your own GPTChat Telegram bot, with a single command!
+   Keywords: telegram bot
+   License: MIT
+
+328. silvia-odwyer/photon (3,852 stars, Rust)
+   URL: https://github.com/silvia-odwyer/photon
+   Desc: 鈿?Rust/WebAssembly image processing library
+   Keywords: image processing
+   License: Apache-2.0
+
+329. autokey/autokey (3,851 stars, Python)
+   URL: https://github.com/autokey/autokey
+   Desc: AutoKey, a desktop automation utility for Linux and X11.
+   Keywords: desktop automation
+   License: GPL-3.0
+
+330. thephpleague/oauth2-client (3,810 stars, PHP)
+   URL: https://github.com/thephpleague/oauth2-client
+   Desc: Easy integration with OAuth 2.0 service providers.
+   Keywords: oauth authentication
+   License: MIT
+
+331. tbxark/ChatGPT-Telegram-Workers (3,803 stars, TypeScript)
+   URL: https://github.com/tbxark/ChatGPT-Telegram-Workers
+   Desc: Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
+   Keywords: telegram bot
+   License: MIT
+
+332. deanxv/coze-discord-proxy (3,793 stars, Go)
+   URL: https://github.com/deanxv/coze-discord-proxy
+   Desc: 浠ｇ悊Discord瀵硅瘽Coze-Bot锛屽疄鐜颁互API褰㈠紡璇锋眰GPT4妯″瀷锛屾彁渚涘璇濄€佹枃鐢熷浘銆佸浘鐢熸枃銆佺煡璇嗗簱妫€绱㈢瓑鍔熻兘銆?
+   Keywords: discord bot
+   License: GPL-3.0
+
+333. nnhubbard/ZSSRichTextEditor (3,784 stars, Objective-C)
+   URL: https://github.com/nnhubbard/ZSSRichTextEditor
+   Desc: A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view
+   Keywords: rich text editor
+   License: MIT
+
+334. nikoksr/notify (3,740 stars, Go)
+   URL: https://github.com/nikoksr/notify
+   Desc: A dead simple Go library for sending notifications to various messaging services.
+   Keywords: telegram bot, discord bot, slack bot
+   License: MIT
+
+335. abhiTronix/vidgear (3,717 stars, Python)
+   URL: https://github.com/abhiTronix/vidgear
+   Desc: A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
+   Keywords: video processing
+   License: Apache-2.0
+
+336. codebymitch/TitanBot (3,687 stars, JavaScript)
+   URL: https://github.com/codebymitch/TitanBot
+   Desc: A powerful, all-in-one Discord assistant built for every server. 
+   Keywords: discord bot
+   License: MIT
+
+337. Tyrrrz/YoutubeExplode (3,683 stars, C#)
+   URL: https://github.com/Tyrrrz/YoutubeExplode
+   Desc: Abstraction layer over YouTube's internal API
+   Keywords: youtube api
+   License: MIT
+
+338. xxxily/h5player (3,621 stars, JavaScript)
+   URL: https://github.com/xxxily/h5player
+   Desc: This software supports all audio and video websites, such as TikTok, YouTube, Bilibili, TED, Instagram, Twitter, etc. Fe
+   Keywords: screen capture
+   License: GPL-3.0
+
+339. Kaliiiiiiiiii-Vinyzu/patchright (3,612 stars, TypeScript)
+   URL: https://github.com/Kaliiiiiiiiii-Vinyzu/patchright
+   Desc: Undetected version of the Playwright testing and automation library.
+   Keywords: browser automation
+   License: Apache-2.0
+
+340. Az0x7/vulnerability-Checklist (3,592 stars, N/A)
+   URL: https://github.com/Az0x7/vulnerability-Checklist
+   Desc: This repository contain a lot of web and api vulnerability checklist , a lot of vulnerability ideas and tips from twitte
+   Keywords: twitter api
+   License: N/A
+
+341. msgbyte/tailchat (3,583 stars, TypeScript)
+   URL: https://github.com/msgbyte/tailchat
+   Desc: Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
+   Keywords: discord bot, slack bot
+   License: Apache-2.0
+
+342. mpromonet/webrtc-streamer (3,573 stars, C++)
+   URL: https://github.com/mpromonet/webrtc-streamer
+   Desc: WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
+   Keywords: screen capture
+   License: Unlicense
+
+343. lynndylanhurley/devise_token_auth (3,570 stars, Ruby)
+   URL: https://github.com/lynndylanhurley/devise_token_auth
+   Desc: Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.
+   Keywords: oauth authentication
+   License: WTFPL
+
+344. arsduo/koala (3,566 stars, Ruby)
+   URL: https://github.com/arsduo/koala
+   Desc: A lightweight Facebook library supporting the Graph, Marketing, and Atlas APIs, realtime updates, test users, and OAuth.
+   Keywords: facebook api
+   License: MIT
+
+345. mdx-editor/editor (3,558 stars, TypeScript)
+   URL: https://github.com/mdx-editor/editor
+   Desc: A rich text editor React component for markdown
+   Keywords: rich text editor
+   License: MIT
+
+346. Mirix-AI/MIRIX (3,550 stars, Python)
+   URL: https://github.com/Mirix-AI/MIRIX
+   Desc: Mirix is a multi-agent personal assistant designed to track on-screen activities and answer user questions intelligently
+   Keywords: screen capture
+   License: Apache-2.0
+
+347. JamieMason/ImageOptim-CLI (3,521 stars, TypeScript)
+   URL: https://github.com/JamieMason/ImageOptim-CLI
+   Desc: Make optimisation of images part of your automated build process
+   Keywords: image processing
+   License: MIT
+
+348. discord-net/Discord.Net (3,497 stars, C#)
+   URL: https://github.com/discord-net/Discord.Net
+   Desc: An unofficial .Net wrapper for the Discord API (https://discord.com/)
+   Keywords: discord bot
+   License: MIT
+
+349. guardian/scribe (3,486 stars, JavaScript)
+   URL: https://github.com/guardian/scribe
+   Desc: DEPRECATED: A rich text editor framework for the web platform
+   Keywords: rich text editor
+   License: Apache-2.0
+
+350. archived-aft-bogus-german-visa-rejectio/insomnium (3,480 stars, JavaScript)
+   URL: https://github.com/archived-aft-bogus-german-visa-rejectio/insomnium
+   Desc: Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets
+   Keywords: rest api tool
+   License: MIT
+
+351. bear/python-twitter (3,406 stars, Python)
+   URL: https://github.com/bear/python-twitter
+   Desc: A Python wrapper around the Twitter API.
+   Keywords: twitter api
+   License: Apache-2.0
+
+352. mxschmitt/playwright-go (3,392 stars, Go)
+   URL: https://github.com/mxschmitt/playwright-go
+   Desc: Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
+   Keywords: browser automation
+   License: MIT
+
+353. hybridauth/hybridauth (3,388 stars, PHP)
+   URL: https://github.com/hybridauth/hybridauth
+   Desc: Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and variou
+   Keywords: twitter api, facebook api
+   License: NOASSERTION
+
+354. inovector/mixpost (3,369 stars, Vue)
+   URL: https://github.com/inovector/mixpost
+   Desc: 馃搮 Schedule, 馃摙 publish, and 鈿?manage your social media content on your server. No subscriptions, no limits. (Buffer alter
+   Keywords: social media scheduler, content scheduler
+   License: MIT
+
+355. Voog/wysihtml (3,349 stars, JavaScript)
+   URL: https://github.com/Voog/wysihtml
+   Desc: Open source rich text editor for the modern web
+   Keywords: rich text editor
+   License: MIT
+
+356. austintoddj/canvas (3,345 stars, PHP)
+   URL: https://github.com/austintoddj/canvas
+   Desc: Publishing on your own terms
+   Keywords: blog publishing
+   License: MIT
+
+357. terkelg/ramme (3,306 stars, JavaScript)
+   URL: https://github.com/terkelg/ramme
+   Desc: Unofficial Instagram Desktop App.
+   Keywords: electron desktop app
+   License: MIT
+
+358. aserbao/AndroidCamera (3,289 stars, Java)
+   URL: https://github.com/aserbao/AndroidCamera
+   Desc: 馃敟馃敟馃敟鑷畾涔堿ndroid鐩告満(浠挎姈闊?TikTok)锛屽叾涓姛鑳藉寘鎷棰戜汉鑴歌瘑鍒创绾革紝缇庨锛屽垎娈靛綍鍒讹紝瑙嗛瑁佸壀锛岃棰戝抚澶勭悊锛岃幏鍙栬棰戝叧閿抚锛岃棰戞棆杞紝娣诲姞婊ら暅锛屾坊鍔犳按鍗帮紝鍚堟垚Gif鍒拌棰戯紝鏂囧瓧杞棰戯紝鍥剧墖杞棰戯紝闊宠棰戝悎鎴愶紝闊抽鍙樺０澶勭悊锛孲
+   Keywords: video processing
+   License: N/A
+
+359. python-twitter-tools/twitter (3,286 stars, Python)
+   URL: https://github.com/python-twitter-tools/twitter
+   Desc: Python Twitter API
+   Keywords: twitter api
+   License: MIT
+
+360. ping/instagram_private_api (3,279 stars, Python)
+   URL: https://github.com/ping/instagram_private_api
+   Desc: A Python library to access Instagram's private API.
+   Keywords: instagram api
+   License: MIT
+
+361. Just-Some-Bots/MusicBot (3,279 stars, Python)
+   URL: https://github.com/Just-Some-Bots/MusicBot
+   Desc: :musical_note: The original MusicBot for Discord (formerly SexualRhinoceros/MusicBot)
+   Keywords: discord bot
+   License: MIT
+
+362. vouch/vouch-proxy (3,267 stars, Go)
+   URL: https://github.com/vouch/vouch-proxy
+   Desc: an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
+   Keywords: oauth authentication
+   License: MIT
+
+363. ItzSudhan/Discord-MusicBot (3,252 stars, HTML)
+   URL: https://github.com/ItzSudhan/Discord-MusicBot
+   Desc: An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard wi
+   Keywords: discord bot
+   License: NOASSERTION
+
+364. ksnip/ksnip (3,244 stars, C++)
+   URL: https://github.com/ksnip/ksnip
+   Desc: ksnip the cross-platform screenshot and annotation tool
+   Keywords: screenshot tool
+   License: GPL-3.0
+
+365. dragonflyoss/dragonfly (3,225 stars, Go)
+   URL: https://github.com/dragonflyoss/dragonfly
+   Desc: Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology, with an optional co
+   Keywords: content distribution
+   License: Apache-2.0
+
+366. kevinzg/facebook-scraper (3,209 stars, Python)
+   URL: https://github.com/kevinzg/facebook-scraper
+   Desc: Scrape Facebook public pages without an API key
+   Keywords: facebook api
+   License: MIT
+
+367. facebookarchive/php-graph-sdk (3,209 stars, PHP)
+   URL: https://github.com/facebookarchive/php-graph-sdk
+   Desc: The Facebook SDK for PHP provides a native interface to the Graph API and Facebook Login.  https://developers.facebook.c
+   Keywords: facebook api
+   License: NOASSERTION
+
+368. xdevplatform/samples (3,189 stars, Python)
+   URL: https://github.com/xdevplatform/samples
+   Desc: Sample code for the X API v2 endpoints
+   Keywords: twitter api
+   License: Apache-2.0
+
+369. tnfe/FFCreator (3,152 stars, JavaScript)
+   URL: https://github.com/tnfe/FFCreator
+   Desc: A fast video processing library based on node.js (涓€涓熀浜巒ode.js鐨勯珮閫熻棰戝埗浣滃簱)
+   Keywords: video processing
+   License: MIT
+
+370. CodecWang/opencv-python-tutorial (3,141 stars, TypeScript)
+   URL: https://github.com/CodecWang/opencv-python-tutorial
+   Desc: 馃摉 OpenCV-Python image processing tutorial for beginners
+   Keywords: image processing
+   License: N/A
+
+371. browser-act/skills (3,137 stars, Python)
+   URL: https://github.com/browser-act/skills
+   Desc: Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck
+   Keywords: browser automation
+   License: MIT
+
+372. buzzfeed/sso (3,127 stars, N/A)
+   URL: https://github.com/buzzfeed/sso
+   Desc: sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
+   Keywords: oauth authentication
+   License: N/A
+
+373. postlight/awesome-cms (3,121 stars, N/A)
+   URL: https://github.com/postlight/awesome-cms
+   Desc: 馃摎 A collection of open and closed source Content Management Systems (CMS) for your perusal.
+   Keywords: content management system
+   License: CC0-1.0
+
+374. oxylabs/oxylabs-ai-studio-py (3,098 stars, Python)
+   URL: https://github.com/oxylabs/oxylabs-ai-studio-py
+   Desc: Structured data gathering from any website using AI-powered scraper, crawler, and browser automation. Scraping and crawl
+   Keywords: browser automation
+   License: MIT
+
+375. automagica/automagica (3,093 stars, Python)
+   URL: https://github.com/automagica/automagica
+   Desc: AI-powered Smart Robotic Process Automation 馃
+   Keywords: rpa automation
+   License: N/A
+
+376. cirosantilli/china-dictatorship (3,078 stars, HTML)
+   URL: https://github.com/cirosantilli/china-dictatorship
+   Desc: 鍙嶄腑鍏辨斂娌诲浼犲簱銆侫nti Chinese government propaganda. 浣忓湪涓浗鐪熷悕鐢ㄦ埛鐨勭綉鍙嬭鍒粰鏄熸槦锛屼笉鐒朵綘瑕佽璀﹀療璇峰枬鑼躲€傚父瑙侀棶绛旈泦锛屾柊闂婚泦鍜岄キ搴楀拰闊充箰寤鸿銆傚崘涔犱竾宀佸崘銆傚啝鐘剁梾姣掑鏌ラ儩娴蜂笢鏂扮枂鏀归€犱腑蹇冨叚鍥涗簨浠舵硶杞姛 
+   Keywords: facebook api, youtube api, slack bot
+   License: CC-BY-SA-4.0
+
+377. AnyListen/tools-ocr (3,065 stars, Java)
+   URL: https://github.com/AnyListen/tools-ocr
+   Desc: 鏍戞礊 OCR 鏂囧瓧璇嗗埆锛堜竴娆捐法骞冲彴鐨?OCR 灏忓伐鍏凤級
+   Keywords: screenshot tool
+   License: LGPL-3.0
+
+378. facebookarchive/python-instagram (3,063 stars, Python)
+   URL: https://github.com/facebookarchive/python-instagram
+   Desc: Python Client for Instagram API
+   Keywords: instagram api
+   License: NOASSERTION
+
+379. AlloyTeam/AlloyImage (3,030 stars, JavaScript)
+   URL: https://github.com/AlloyTeam/AlloyImage
+   Desc: 鍩轰簬HTML5鐨勪笓涓氱骇鍥惧儚澶勭悊寮€婧愬紩鎿庛€侫n image processing lib based on html5.
+   Keywords: image processing
+   License: NOASSERTION
+
+380. h2non/bimg (3,019 stars, Go)
+   URL: https://github.com/h2non/bimg
+   Desc: Go package for fast high-level image processing powered by libvips C library
+   Keywords: image processing
+   License: MIT
+
+381. twitter/TwitterTextEditor (3,005 stars, Swift)
+   URL: https://github.com/twitter/TwitterTextEditor
+   Desc: A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
+   Keywords: twitter api, rich text editor
+   License: Apache-2.0
+
+382. renrenio/linktoken (2,998 stars, N/A)
+   URL: https://github.com/renrenio/linktoken
+   Desc: LinkToken is an open-source unified token management platform that provides token distribution, access control, and usag
+   Keywords: token management
+   License: LGPL-3.0
+
+383. oxylabs/how-to-scrape-amazon-product-data (2,989 stars, N/A)
+   URL: https://github.com/oxylabs/how-to-scrape-amazon-product-data
+   Desc: The process of extracting product data from Amazon using Python, including titles, ratings, prices, images, and descript
+   Keywords: image processing
+   License: N/A
+
+384. open-rpa/openrpa (2,983 stars, C#)
+   URL: https://github.com/open-rpa/openrpa
+   Desc: Free Open Source Enterprise Grade RPA
+   Keywords: rpa automation
+   License: MPL-2.0
+
+385. chromelyapps/Chromely (2,975 stars, C#)
+   URL: https://github.com/chromelyapps/Chromely
+   Desc: Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPag
+   Keywords: electron desktop app
+   License: MIT
+
+386. oauthlib/oauthlib (2,971 stars, Python)
+   URL: https://github.com/oauthlib/oauthlib
+   Desc: A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
+   Keywords: oauth authentication
+   License: BSD-3-Clause
+
+387. HaujetZhao/QuickCut (2,942 stars, Python)
+   URL: https://github.com/HaujetZhao/QuickCut
+   Desc: Your most handy video processing software
+   Keywords: video processing
+   License: MPL-2.0
+
+388. microsoft/Git-Credential-Manager-for-Windows (2,942 stars, C#)
+   URL: https://github.com/microsoft/Git-Credential-Manager-for-Windows
+   Desc: Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-fact
+   Keywords: credential storage
+   License: NOASSERTION
+
+389. microsoft/restler-fuzzer (2,921 stars, Python)
+   URL: https://github.com/microsoft/restler-fuzzer
+   Desc: RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and
+   Keywords: rest api tool
+   License: MIT
+
+390. zxing-js/library (2,919 stars, TypeScript)
+   URL: https://github.com/zxing-js/library
+   Desc: Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
+   Keywords: image processing
+   License: Apache-2.0
+
+391. jiajunhui/PlayerBase (2,914 stars, Java)
+   URL: https://github.com/jiajunhui/PlayerBase
+   Desc: The basic library of Android player will process complex business components. The access is simple銆侫ndroid鎾斁鍣ㄥ熀纭€搴擄紝涓撴敞浜庢挱鏀捐鍥?
+   Keywords: video processing
+   License: Apache-2.0
+
+392. singerdmx/flutter-quill (2,910 stars, Dart)
+   URL: https://github.com/singerdmx/flutter-quill
+   Desc: Rich text editor for Flutter
+   Keywords: rich text editor
+   License: MIT
+
+393. sylikc/jpegview (2,895 stars, C++)
+   URL: https://github.com/sylikc/jpegview
+   Desc: Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TI
+   Keywords: image processing
+   License: NOASSERTION
+
+394. sstur/react-rte (2,867 stars, JavaScript)
+   URL: https://github.com/sstur/react-rte
+   Desc: Pure React rich text WYSIWYG editor based on draft-js.
+   Keywords: rich text editor
+   License: ISC
+
+395. BradLarson/GPUImage3 (2,866 stars, Swift)
+   URL: https://github.com/BradLarson/GPUImage3
+   Desc: GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
+   Keywords: image processing, video processing
+   License: BSD-3-Clause
+
+396. CharlesPikachu/DecryptLogin (2,858 stars, Python)
+   URL: https://github.com/CharlesPikachu/DecryptLogin
+   Desc: DecryptLogin: APIs for loginning some websites by using requests.
+   Keywords: weibo api, twitter api
+   License: Apache-2.0
+
+397. lackeyjb/playwright-skill (2,838 stars, JavaScript)
+   URL: https://github.com/lackeyjb/playwright-skill
+   Desc: Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom
+   Keywords: browser automation
+   License: MIT
+
+398. lxf746/any-auto-register (2,820 stars, Python)
+   URL: https://github.com/lxf746/any-auto-register
+   Desc: Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms 路 Protocol/browser du
+   Keywords: browser automation, desktop automation, electron desktop app
+   License: AGPL-3.0
+
+399. nashsu/AutoCLI (2,818 stars, Rust)
+   URL: https://github.com/nashsu/AutoCLI
+   Desc: AutoCLI is a  Blazing fast, memory-safe command-line tool 鈥?Fetch information from any website with a single command. Co
+   Keywords: electron desktop app
+   License: Apache-2.0
+
+400. sigma67/ytmusicapi (2,813 stars, Python)
+   URL: https://github.com/sigma67/ytmusicapi
+   Desc: Unofficial API for YouTube Music
+   Keywords: youtube api
+   License: MIT
+
+401. Twitter4J/Twitter4J (2,806 stars, Java)
+   URL: https://github.com/Twitter4J/Twitter4J
+   Desc: Twitter4J is an open-source Java library for the Twitter API.
+   Keywords: twitter api
+   License: Apache-2.0
+
+402. FriendsOfSymfony/FOSRestBundle (2,797 stars, PHP)
+   URL: https://github.com/FriendsOfSymfony/FOSRestBundle
+   Desc: This Bundle provides various tools to rapidly develop RESTful API's with Symfony
+   Keywords: rest api tool
+   License: MIT
+
+403. mobolic/facebook-sdk (2,787 stars, Python)
+   URL: https://github.com/mobolic/facebook-sdk
+   Desc: Python SDK for Facebook's Graph API
+   Keywords: facebook api
+   License: Apache-2.0
+
+404. GUI-for-Cores/GUI.for.Clash (2,783 stars, TypeScript)
+   URL: https://github.com/GUI-for-Cores/GUI.for.Clash
+   Desc: Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
+   Keywords: vue3 desktop app
+   License: GPL-3.0
+
+405. edrlab/thorium-reader (2,765 stars, TypeScript)
+   URL: https://github.com/edrlab/thorium-reader
+   Desc: A cross platform desktop reading app, based on the Readium Desktop toolkit
+   Keywords: electron desktop app
+   License: BSD-3-Clause
+
+406. yaojingang/GEOFlow (2,755 stars, PHP)
+   URL: https://github.com/yaojingang/GEOFlow
+   Desc: Open-source GEO content engineering and multi-site distribution system with AI tasks, RAG/semantic chunking, analytics, 
+   Keywords: content distribution
+   License: Apache-2.0
+
+407. cporter202/automate-faceless-content (2,754 stars, N/A)
+   URL: https://github.com/cporter202/automate-faceless-content
+   Desc: Learn how to automate faceless short-form + long-form video content and dominate YouTube, TikTok, Facebook & Instagram o
+   Keywords: content scheduler
+   License: N/A
+
+408. DefGuard/defguard (2,749 stars, Rust)
+   URL: https://github.com/DefGuard/defguard
+   Desc: Zero-Trust access management with true WireGuard庐 2FA/MFA
+   Keywords: oauth authentication
+   License: NOASSERTION
+
+409. Zero6992/chatGPT-discord-bot (2,741 stars, Python)
+   URL: https://github.com/Zero6992/chatGPT-discord-bot
+   Desc: Integrate ChatGPT into your own discord bot
+   Keywords: discord bot
+   License: GPL-2.0
+
+410. leaperone/MultiPost-Extension (2,713 stars, TypeScript)
+   URL: https://github.com/leaperone/MultiPost-Extension
+   Desc: A browser extension that helps users publish content to multiple social media platforms with one click.
+   Keywords: browser automation, browser extension automation
+   License: Apache-2.0
+
+411. comfy/comfortable-mexican-sofa (2,712 stars, Ruby)
+   URL: https://github.com/comfy/comfortable-mexican-sofa
+   Desc: ComfortableMexicanSofa is a powerful Ruby on Rails 5.2+ CMS (Content Management System) Engine
+   Keywords: content management system
+   License: MIT
+
+412. CVCUDA/CV-CUDA (2,694 stars, C++)
+   URL: https://github.com/CVCUDA/CV-CUDA
+   Desc: CV-CUDA鈩?is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
+   Keywords: image processing
+   License: NOASSERTION
+
+413. dynobo/normcap (2,646 stars, Python)
+   URL: https://github.com/dynobo/normcap
+   Desc: OCR powered screen-capture tool to capture information instead of images
+   Keywords: screen capture, screenshot tool
+   License: NOASSERTION
+
+414. langchain-ai/social-media-agent (2,638 stars, TypeScript)
+   URL: https://github.com/langchain-ai/social-media-agent
+   Desc: 馃摬 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
+   Keywords: social media scheduler
+   License: MIT
+
+415. ory/fosite (2,587 stars, Go)
+   URL: https://github.com/ory/fosite
+   Desc: Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
+   Keywords: oauth authentication
+   License: Apache-2.0
+
+416. garden-co/classic-jazz (2,536 stars, TypeScript)
+   URL: https://github.com/garden-co/classic-jazz
+   Desc: A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage clo
+   Keywords: cloud sync
+   License: MIT
+
+417. Johnserf-Seed/f2 (2,535 stars, Python)
+   URL: https://github.com/Johnserf-Seed/f2
+   Desc: High-speed downloader for multiple platforms
+   Keywords: douyin api, tiktok api, weibo api
+   License: Apache-2.0
+
+418. pac4j/pac4j (2,522 stars, Java)
+   URL: https://github.com/pac4j/pac4j
+   Desc: Security engine for Java (authentication, authorization, multi frameworks): OpenID Connect, SAML2, CAS, OAuth, LDAP, JWT
+   Keywords: oauth authentication
+   License: Apache-2.0
+
+419. aspnet-contrib/AspNet.Security.OAuth.Providers (2,510 stars, C#)
+   URL: https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers
+   Desc: OAuth 2.0 social authentication providers for ASP.NET Core
+   Keywords: oauth authentication
+   License: Apache-2.0
+
+420. Sjj1024/PakePlus-Win7 (2,505 stars, JavaScript)
+   URL: https://github.com/Sjj1024/PakePlus-Win7
+   Desc: Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 杞绘澗灏嗕换鎰忕綉绔?HTML/Vu
+   Keywords: electron desktop app, vue3 desktop app
+   License: N/A
+
+421. yangjie10930/EpMedia (2,500 stars, C)
+   URL: https://github.com/yangjie10930/EpMedia
+   Desc: Android涓婂熀浜嶧Fmpeg寮€鍙戠殑瑙嗛澶勭悊妗嗘灦锛岀畝鍗曟槗鐢紝浣撶Н灏忥紝甯姪浣跨敤鑰呭揩閫熷疄鐜拌棰戝鐞嗗姛鑳姐€傚寘鍚互涓嬪姛鑳斤細鍓緫锛岃鍓紝鏃嬭浆锛岄暅鍍忥紝鍚堝苟锛屽垎绂伙紝鍙橀€燂紝娣诲姞LOGO锛屾坊鍔犳护闀滐紝娣诲姞鑳屾櫙闊充箰锛屽姞閫熷噺閫熻棰戯紝鍊掓斁闊宠棰戙€?The vide
+   Keywords: video processing
+   License: MIT
+
+422. szTheory/exifcleaner (2,491 stars, Perl)
+   URL: https://github.com/szTheory/exifcleaner
+   Desc: Cross-platform desktop GUI app to clean image metadata
+   Keywords: electron desktop app
+   License: MIT
+
+423. haierkeys/obsidian-fast-note-sync (2,478 stars, JavaScript)
+   URL: https://github.com/haierkeys/obsidian-fast-note-sync
+   Desc: Can be privately deployed, focusing on providing Obsidian users with a seamless, distraction-free note synchronization p
+   Keywords: real-time sync
+   License: Apache-2.0
+
+424. bergie/hallo (2,453 stars, CoffeeScript)
+   URL: https://github.com/bergie/hallo
+   Desc: Simple rich text editor (contentEditable) for jQuery UI
+   Keywords: rich text editor
+   License: MIT
+
+425. igorprado/react-notification-system (2,443 stars, JavaScript)
+   URL: https://github.com/igorprado/react-notification-system
+   Desc: A complete and totally customizable component for notifications in React
+   Keywords: notification system
+   License: MIT
+
+426. ErickWendel/semana-javascript-expert08 (2,442 stars, JavaScript)
+   URL: https://github.com/ErickWendel/semana-javascript-expert08
+   Desc: JS Expert Week 8.0 - 馃帴Pre processing videos before uploading in the browser 馃槒
+   Keywords: video processing
+   License: N/A
+
+427. OrchardCMS/Orchard (2,414 stars, C#)
+   URL: https://github.com/OrchardCMS/Orchard
+   Desc: Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform. Check out
+   Keywords: content management system
+   License: BSD-3-Clause
+
+428. thomseddon/traefik-forward-auth (2,387 stars, Go)
+   URL: https://github.com/thomseddon/traefik-forward-auth
+   Desc: Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik 
+   Keywords: oauth authentication
+   License: MIT
+
+429. hwi/HWIOAuthBundle (2,373 stars, PHP)
+   URL: https://github.com/hwi/HWIOAuthBundle
+   Desc: OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
+   Keywords: oauth authentication
+   License: MIT
+
+430. slackapi/hubot-slack (2,336 stars, CoffeeScript)
+   URL: https://github.com/slackapi/hubot-slack
+   Desc: Slack Developer Kit for Hubot
+   Keywords: slack bot
+   License: MIT
+
+431. Medium/medium-api-docs (2,332 stars, N/A)
+   URL: https://github.com/Medium/medium-api-docs
+   Desc: Documentation for Medium's OAuth2 API
+   Keywords: medium api
+   License: N/A
+
+432. stephengpope/no-code-architects-toolkit (2,315 stars, Python)
+   URL: https://github.com/stephengpope/no-code-architects-toolkit
+   Desc: The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE 
+   Keywords: video processing
+   License: GPL-2.0
+
+433. rdp/screen-capture-recorder-to-video-windows-free (2,292 stars, C++)
+   URL: https://github.com/rdp/screen-capture-recorder-to-video-windows-free
+   Desc: a free open source  windows "screen capture" device and recorder (also allows VLC/ffmpeg and others to capture/stream de
+   Keywords: screen capture
+   License: NOASSERTION
+
+434. sw33tLie/macshot (2,280 stars, Swift)
+   URL: https://github.com/sw33tLie/macshot
+   Desc: Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll
+   Keywords: screenshot tool
+   License: GPL-3.0
+
+435. jackwener/xiaohongshu-cli (2,273 stars, Python)
+   URL: https://github.com/jackwener/xiaohongshu-cli
+   Desc: A CLI for Xiaohongshu (灏忕孩涔? 鈥?search, read, interact via reverse-engineered API
+   Keywords: xiaohongshu api
+   License: N/A
+
+436. 4xmen/anubias (2,272 stars, Vue)
+   URL: https://github.com/4xmen/anubias
+   Desc: Developed mobile apps so easy and native with GUI 馃摫
+   Keywords: electron desktop app
+   License: N/A
+
+437. cv-cat/DouYin_Spider (2,236 stars, JavaScript)
+   URL: https://github.com/cv-cat/DouYin_Spider
+   Desc: 鎶栭煶閫嗗悜锛屾姈闊崇埇铏紝鎶栭煶鍏ㄩ儴api銆佺淇°€佺洿鎾棿鐩戝惉
+   Keywords: douyin api
+   License: N/A
+
+438. quokkaproject/quokka (2,228 stars, Python)
+   URL: https://github.com/quokkaproject/quokka
+   Desc: LOOKING FOR NEW MAINTAINER - Quokka is a Content Management System - `docker run --rm -it -p 5000:5000 quokka/quokka`
+   Keywords: content management system
+   License: NOASSERTION
+
+439. V4NSH4J/discord-mass-DM-GO (2,212 stars, Go)
+   URL: https://github.com/V4NSH4J/discord-mass-DM-GO
+   Desc: The most powerful Discord selfbot written in GO allowing users to automate their campaigns & send low-cost mass messages
+   Keywords: discord bot
+   License: AGPL-3.0
+
+440. wabarc/wayback (2,208 stars, Go)
+   URL: https://github.com/wabarc/wayback
+   Desc: An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archiva
+   Keywords: screenshot tool
+   License: GPL-3.0
+
+441. puneetsl/lotion (2,199 stars, JavaScript)
+   URL: https://github.com/puneetsl/lotion
+   Desc: Unofficial Notion.so app for Linux
+   Keywords: electron desktop app
+   License: MIT
+
+442. greenpau/caddy-security (2,183 stars, Go)
+   URL: https://github.com/greenpau/caddy-security
+   Desc: 馃攼 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 馃拵 Implements Form-Based, Basic, Local
+   Keywords: oauth authentication
+   License: Apache-2.0
+
+443. MetalPetal/MetalPetal (2,165 stars, Objective-C)
+   URL: https://github.com/MetalPetal/MetalPetal
+   Desc: A GPU accelerated image and video processing framework built on Metal.
+   Keywords: video processing
+   License: MIT
+
+444. jossmac/react-toast-notifications (2,163 stars, JavaScript)
+   URL: https://github.com/jossmac/react-toast-notifications
+   Desc: 馃崬 A toast notification system for react
+   Keywords: notification system
+   License: MIT
+
+445. vercel/chat (2,142 stars, TypeScript)
+   URL: https://github.com/vercel/chat
+   Desc: A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
+   Keywords: discord bot, slack bot
+   License: MIT
+
+446. yctimlin/mcp_excalidraw (2,106 stars, JavaScript)
+   URL: https://github.com/yctimlin/mcp_excalidraw
+   Desc: MCP server and Claude Code skill for Excalidraw 鈥?programmatic canvas toolkit to create, edit, and export diagrams via A
+   Keywords: real-time sync
+   License: MIT
+
+447. mthli/Knife (2,094 stars, Java)
+   URL: https://github.com/mthli/Knife
+   Desc: Knife is a rich text editor component for writing documents in Android.
+   Keywords: rich text editor
+   License: Apache-2.0
+
+448. wavded/humane-js (2,092 stars, CSS)
+   URL: https://github.com/wavded/humane-js
+   Desc: A simple, modern, browser notification system
+   Keywords: notification system
+   License: N/A
+
+449. riccardoperra/codeimage (2,077 stars, TypeScript)
+   URL: https://github.com/riccardoperra/codeimage
+   Desc: A tool to beautify your code screenshots. Built with SolidJS and Fastify.
+   Keywords: screenshot tool
+   License: MIT
+
+450. Team-BANERUS/poketwo-Autocatcher (2,074 stars, JavaScript)
+   URL: https://github.com/Team-BANERUS/poketwo-Autocatcher
+   Desc:  Banerus poketwo autocatcher (Pokemon) is an innovative and user-friendly tool, equipped with a wide array of features. 
+   Keywords: discord bot
+   License: Apache-2.0
+
+451. althonos/InstaLooter (2,071 stars, Python)
+   URL: https://github.com/althonos/InstaLooter
+   Desc: Another API-less Instagram pictures and videos downloader. (defunct)
+   Keywords: instagram api
+   License: GPL-3.0
+
+452. zerodytrash/TikTok-Live-Connector (2,056 stars, TypeScript)
+   URL: https://github.com/zerodytrash/TikTok-Live-Connector
+   Desc: Node.js library to receive live stream events (comments, gifts, etc.) in realtime from TikTok LIVE.
+   Keywords: tiktok api
+   License: MIT
+
+453. vapoursynth/vapoursynth (2,045 stars, C++)
+   URL: https://github.com/vapoursynth/vapoursynth
+   Desc: A video processing framework with simplicity in mind
+   Keywords: video processing
+   License: LGPL-2.1
+
+454. cporter202/social-media-scraping-apis (2,014 stars, JavaScript)
+   URL: https://github.com/cporter202/social-media-scraping-apis
+   Desc: A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebo
+   Keywords: tiktok api, twitter api, instagram api
+   License: N/A
+
+455. Pulover/PuloversMacroCreator (2,001 stars, AutoHotkey)
+   URL: https://github.com/Pulover/PuloversMacroCreator
+   Desc: Automation Utility - Recorder & Script Generator
+   Keywords: rpa automation
+   License: NOASSERTION
+
+456. BetaStreetOmnis/xhs_ai_publisher (2,000 stars, Python)
+   URL: https://github.com/BetaStreetOmnis/xhs_ai_publisher
+   Desc: AI-powered Xiaohongshu/Rednote content creation and publishing tool with PyQt desktop UI, FastAPI service, login-state r
+   Keywords: desktop automation
+   License: Apache-2.0
+
+457. howeyc/fsnotify (1,980 stars, Go)
+   URL: https://github.com/howeyc/fsnotify
+   Desc: File system notification for Go
+   Keywords: notification system
+   License: BSD-3-Clause
+
+458. LlmKira/Openaibot (1,969 stars, Python)
+   URL: https://github.com/LlmKira/Openaibot
+   Desc: 鈿★笍 Build Your Own chatgpt Bot|馃 Discord/Slack/Kook/Telegram |鉀?ToolCall|馃敄 Plugin Support | 馃尰 out-of-box | gpt-4o
+   Keywords: discord bot, slack bot
+   License: Apache-2.0
+
+459. Schmavery/facebook-chat-api (1,948 stars, JavaScript)
+   URL: https://github.com/Schmavery/facebook-chat-api
+   Desc: Unofficial Facebook Chat API for Nodejs
+   Keywords: facebook api
+   License: MIT
+
+460. bottenderjs/messaging-apis (1,938 stars, TypeScript)
+   URL: https://github.com/bottenderjs/messaging-apis
+   Desc: Messaging APIs for multi-platform
+   Keywords: slack bot
+   License: MIT
+
+461. gege-circle/.github (1,928 stars, N/A)
+   URL: https://github.com/gege-circle/.github
+   Desc: 杩欓噷鏄疓itHub鐨勮崏鍦猴紝涔熸槸鎴堟垐鍦堢埍濂借€呯殑浜ゆ祦鍦帮紝涓昏璁ㄨ鍔ㄦ极銆佹父鎴忋€佺鎶€銆佷汉鏂囥€佺敓娲荤瓑鎵€鏈夎瘽棰橈紝娆㈣繋鍚勪綅灏忎紮浼翠滑鍦ㄦ璁ㄨ瓒ｄ簨銆俆his is GitHub grassland, and the community place for G
+   Keywords: facebook api, youtube api, slack bot
+   License: N/A
+
+462. Discord4J/Discord4J (1,919 stars, Java)
+   URL: https://github.com/Discord4J/Discord4J
+   Desc: Discord4J is a fast, powerful, unopinionated, reactive library to enable quick and easy development of Discord bots for 
+   Keywords: discord bot
+   License: LGPL-3.0
+
+463. yrom/ScreenRecorder (1,900 stars, Java)
+   URL: https://github.com/yrom/ScreenRecorder
+   Desc: Implement screen capture without root on Android 5.0+ by using MediaProjectionManager, VirtualDisplay, AudioRecord, Medi
+   Keywords: screen capture
+   License: N/A
+
+464. cjwirth/RichEditorView (1,896 stars, Swift)
+   URL: https://github.com/cjwirth/RichEditorView
+   Desc: RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
+   Keywords: rich text editor
+   License: BSD-3-Clause
+
+465. trevorhobenshield/twitter-api-client (1,890 stars, Python)
+   URL: https://github.com/trevorhobenshield/twitter-api-client
+   Desc: Implementation of X/Twitter v1, v2, and GraphQL APIs
+   Keywords: twitter api
+   License: MIT
+
+466. brightbeanxyz/brightbean-studio (1,876 stars, Python)
+   URL: https://github.com/brightbeanxyz/brightbean-studio
+   Desc: Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms 
+   Keywords: multi-platform publish, social media scheduler, content scheduler
+   License: AGPL-3.0
+
+467. eritislami/evobot (1,866 stars, TypeScript)
+   URL: https://github.com/eritislami/evobot
+   Desc: 馃 EvoBot is a Discord Music Bot built with TypeScript + Discord.js, includes Docker builds & localization in 20+ languag
+   Keywords: discord bot
+   License: MIT
+
+468. meganz/MEGAsync (1,862 stars, C++)
+   URL: https://github.com/meganz/MEGAsync
+   Desc: Easy automated syncing between your computers and your MEGA Cloud Drive
+   Keywords: cloud sync
+   License: NOASSERTION
+
+469. ryanmcgrath/twython (1,860 stars, Python)
+   URL: https://github.com/ryanmcgrath/twython
+   Desc: Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.
+   Keywords: twitter api
+   License: MIT
+
+470. KillerCodeMonkey/ngx-quill (1,853 stars, TypeScript)
+   URL: https://github.com/KillerCodeMonkey/ngx-quill
+   Desc: Angular (>=2) components for the Quill Rich Text Editor
+   Keywords: rich text editor
+   License: MIT
+
+471. openstf/minicap (1,852 stars, C++)
+   URL: https://github.com/openstf/minicap
+   Desc: Stream real-time screen capture data out of Android devices.
+   Keywords: screen capture
+   License: NOASSERTION
+
+472. TNT-Likely/BeeCount (1,838 stars, Dart)
+   URL: https://github.com/TNT-Likely/BeeCount
+   Desc: Local-first bookkeeping for iOS/Android/Web 路 Self-hosted cloud + iCloud/WebDAV/S3 sync 路 AI capture 路 MCP | 鏈湴浼樺厛鐨勮法绔璐?路
+   Keywords: cloud sync
+   License: NOASSERTION
+
+473. claudiajs/claudia-bot-builder (1,833 stars, JavaScript)
+   URL: https://github.com/claudiajs/claudia-bot-builder
+   Desc: Create chat bots for Facebook Messenger, Slack, Amazon Alexa, Skype, Telegram, Viber, Line, GroupMe, Kik and Twilio and 
+   Keywords: slack bot
+   License: MIT
+
+474. openai/gpt-discord-bot (1,830 stars, Python)
+   URL: https://github.com/openai/gpt-discord-bot
+   Desc: Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` mo
+   Keywords: discord bot
+   License: MIT
+
+475. NitroRCr/AIaW (1,824 stars, TypeScript)
+   URL: https://github.com/NitroRCr/AIaW
+   Desc: AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cro
+   Keywords: real-time sync, cloud sync
+   License: BSD-3-Clause
+
+476. J7mbo/twitter-api-php (1,810 stars, PHP)
+   URL: https://github.com/J7mbo/twitter-api-php
+   Desc: The simplest PHP Wrapper for Twitter API v1.1 calls
+   Keywords: twitter api
+   License: MIT
+
+477. editablejs/editable (1,805 stars, TypeScript)
+   URL: https://github.com/editablejs/editable
+   Desc: 馃尡 A collaborative rich-text editor framework that focuses on stability, controllability, extensibility, and performance.
+   Keywords: rich text editor
+   License: Apache-2.0
+
+478. MohamedRejeb/compose-rich-editor (1,801 stars, Kotlin)
+   URL: https://github.com/MohamedRejeb/compose-rich-editor
+   Desc: A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable, supports HTML and Mar
+   Keywords: rich text editor
+   License: Apache-2.0
+
+479. twitter/twurl (1,800 stars, Ruby)
+   URL: https://github.com/twitter/twurl
+   Desc: OAuth-enabled curl for the Twitter API
+   Keywords: twitter api
+   License: MIT
+
+480. fabston/TradingView-Webhook-Bot (1,798 stars, Python)
+   URL: https://github.com/fabston/TradingView-Webhook-Bot
+   Desc: 馃搳 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email. 
+   Keywords: discord bot, slack bot
+   License: MIT
+
+481. ShenaniganDApp/brightid-discord-bot (1,783 stars, ReScript)
+   URL: https://github.com/ShenaniganDApp/brightid-discord-bot
+   Desc: N/A
+   Keywords: discord bot
+   License: N/A
+
+482. duongductrong/Snapzy (1,781 stars, Swift)
+   URL: https://github.com/duongductrong/Snapzy
+   Desc: An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.
+   Keywords: screen capture
+   License: BSD-3-Clause
+
+483. ianzhao/textshot (1,775 stars, Python)
+   URL: https://github.com/ianzhao/textshot
+   Desc: Python tool for grabbing text via screenshot
+   Keywords: screenshot tool
+   License: MIT
+
+484. terryworona/TWMessageBarManager (1,756 stars, Objective-C)
+   URL: https://github.com/terryworona/TWMessageBarManager
+   Desc: An iOS manager for presenting system-wide notifications via a dropdown message bar.
+   Keywords: notification system
+   License: MIT
+
+485. aieditor-team/AiEditor (1,755 stars, TypeScript)
+   URL: https://github.com/aieditor-team/AiEditor
+   Desc: AiEditor is a next-generation rich text editor for AI.
+   Keywords: rich text editor
+   License: LGPL-2.1
+
+486. intoli/remote-browser (1,749 stars, JavaScript)
+   URL: https://github.com/intoli/remote-browser
+   Desc: A low-level browser automation framework built on top of the Web Extensions API standard.
+   Keywords: browser extension automation
+   License: NOASSERTION
+
+487. brijeshb42/medium-draft (1,716 stars, JavaScript)
+   URL: https://github.com/brijeshb42/medium-draft
+   Desc: 馃摑 A medium like Rich Text Editor built on draft-js with a focus on keyboard shortcuts.
+   Keywords: rich text editor
+   License: MIT
+
+488. whitphx/streamlit-webrtc (1,706 stars, Python)
+   URL: https://github.com/whitphx/streamlit-webrtc
+   Desc: Real-time video and audio processing on Streamlit
+   Keywords: video processing
+   License: MIT
+
+489. cliftonc/calipso (1,692 stars, JavaScript)
+   URL: https://github.com/cliftonc/calipso
+   Desc: Calipso is a simple NodeJS content management system based on Express, Connect & Mongoose.
+   Keywords: content management system
+   License: N/A
+
+490. modmail-dev/Modmail (1,687 stars, Python)
+   URL: https://github.com/modmail-dev/Modmail
+   Desc: A Discord bot that functions as a shared inbox between staff and members, similar to Reddit's Modmail.
+   Keywords: discord bot
+   License: AGPL-3.0
+
+491. raphaelcruzeiro/jquery-notebook (1,682 stars, JavaScript)
+   URL: https://github.com/raphaelcruzeiro/jquery-notebook
+   Desc: A modern, simple and elegant WYSIWYG rich text editor.
+   Keywords: rich text editor
+   License: NOASSERTION
+
+492. radiant/radiant (1,679 stars, Ruby)
+   URL: https://github.com/radiant/radiant
+   Desc: Radiant is a no-fluff, open source content management system designed for small teams.
+   Keywords: content management system
+   License: MIT
+
+493. unity3d-jp/MeshSync (1,679 stars, C#)
+   URL: https://github.com/unity3d-jp/MeshSync
+   Desc: A package for synchronizing meshes/models editing in DCC tools into Unity in real time.
+   Keywords: real-time sync
+   License: NOASSERTION
+
+494. CharlieHess/slack-poker-bot (1,678 stars, JavaScript)
+   URL: https://github.com/CharlieHess/slack-poker-bot
+   Desc: A bot that deals Texas Hold'em games in Slack
+   Keywords: slack bot
+   License: MIT
+
+495. yuanqing/vdx (1,661 stars, TypeScript)
+   URL: https://github.com/yuanqing/vdx
+   Desc: :film_strip: An intuitive CLI for processing video, powered by FFmpeg
+   Keywords: video processing
+   License: MIT
+
+496. syncany/syncany (1,643 stars, Java)
+   URL: https://github.com/syncany/syncany
+   Desc: Syncany is a cloud storage and filesharing application with a focus on security and abstraction of storage.
+   Keywords: cloud sync
+   License: NOASSERTION
+
+497. joaomoreno/gifcap (1,638 stars, TypeScript)
+   URL: https://github.com/joaomoreno/gifcap
+   Desc: Capture your screen to a GIF in your browser
+   Keywords: screen capture
+   License: GPL-3.0
+
+498. OpenAdaptAI/OpenAdapt (1,629 stars, Python)
+   URL: https://github.com/OpenAdaptAI/OpenAdapt
+   Desc: Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs
+   Keywords: rpa automation
+   License: MIT
+
+499. junhoyeo/threads-api (1,615 stars, TypeScript)
+   URL: https://github.com/junhoyeo/threads-api
+   Desc: Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
+   Keywords: instagram api
+   License: MIT
+
+500. hwittenborn/celeste (1,615 stars, Rust)
+   URL: https://github.com/hwittenborn/celeste
+   Desc: GUI file synchronization client that can sync with any cloud provider
+   Keywords: cloud sync
+   License: GPL-3.0
+
+501. C0nw0nk/Nginx-Lua-Anti-DDoS (1,605 stars, Lua)
+   URL: https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS
+   Desc: A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by
+   Keywords: content management system
+   License: MIT
+
+502. yincongcyincong/MuseBot (1,603 stars, Go)
+   URL: https://github.com/yincongcyincong/MuseBot
+   Desc: supports Telegram, Discord, Slack, Lark锛堥涔︼級锛岄拤閽? 浼佷笟寰俊, QQ, 寰俊, compatible with various LLMs including OpenAI, Gemini, Dee
+   Keywords: discord bot, slack bot
+   License: MIT
+
+503. discordjs/guide (1,598 stars, JavaScript)
+   URL: https://github.com/discordjs/guide
+   Desc: A prior iteration of the guide for discord.js, created and maintained by core members of its community.
+   Keywords: discord bot
+   License: MIT
+
+504. difyz9/ytb2bili (1,594 stars, Go)
+   URL: https://github.com/difyz9/ytb2bili
+   Desc: A fully functional automated video processing system that supports downloading videos from platforms such as YouTube, au
+   Keywords: content scheduler, video processing
+   License: N/A
+
+505. Clivern/Beaver (1,580 stars, Go)
+   URL: https://github.com/Clivern/Beaver
+   Desc: 馃挩 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile 
+   Keywords: notification system
+   License: MIT
+
+506. dghubble/go-twitter (1,569 stars, Go)
+   URL: https://github.com/dghubble/go-twitter
+   Desc: Go Twitter REST and Streaming API v1.1
+   Keywords: twitter api
+   License: MIT
+
+507. uniqush/uniqush-push (1,563 stars, Go)
+   URL: https://github.com/uniqush/uniqush-push
+   Desc: Uniqush is a free and open source software system which provides a unified push service for server side notification to 
+   Keywords: notification system
+   License: Apache-2.0
+
+508. LouisBarranqueiro/reapop (1,561 stars, TypeScript)
+   URL: https://github.com/LouisBarranqueiro/reapop
+   Desc: :postbox: A simple and customizable React notifications system
+   Keywords: notification system
+   License: MIT
+
+509. rclone/rclone-webui-react (1,559 stars, JavaScript)
+   URL: https://github.com/rclone/rclone-webui-react
+   Desc: A full fledged UI for the rclone cloud sync tool
+   Keywords: cloud sync
+   License: MIT
+
+510. plhery/node-twitter-api-v2 (1,557 stars, TypeScript)
+   URL: https://github.com/plhery/node-twitter-api-v2
+   Desc: Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
+   Keywords: twitter api
+   License: Apache-2.0
+
+511. Altimis/Scweet (1,557 stars, Python)
+   URL: https://github.com/Altimis/Scweet
+   Desc: Scrape tweets, profiles, followers and following from Twitter/X, no API key needed. Python library with smart multi-acco
+   Keywords: twitter api
+   License: MIT
+
+512. facebook/facebook-python-business-sdk (1,556 stars, Python)
+   URL: https://github.com/facebook/facebook-python-business-sdk
+   Desc: Python SDK for Meta Marketing APIs
+   Keywords: facebook api
+   License: NOASSERTION
+
+513. kbinani/screenshot (1,552 stars, Go)
+   URL: https://github.com/kbinani/screenshot
+   Desc: Go library to capture desktop to image
+   Keywords: screen capture
+   License: MIT
+
+514. srid/neuron (1,549 stars, Haskell)
+   URL: https://github.com/srid/neuron
+   Desc: Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
+   Keywords: blog publishing
+   License: AGPL-3.0
+
+515. robocorp/rpaframework (1,525 stars, Python)
+   URL: https://github.com/robocorp/rpaframework
+   Desc: Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot 
+   Keywords: rpa automation
+   License: Apache-2.0
+
+516. vapid/vapid (1,500 stars, SCSS)
+   URL: https://github.com/vapid/vapid
+   Desc: Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard with
+   Keywords: content management system
+   License: MIT
+
+517. mikeroyal/PipeWire-Guide (1,484 stars, Shell)
+   URL: https://github.com/mikeroyal/PipeWire-Guide
+   Desc: PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
+   Keywords: video processing
+   License: N/A
+
+518. huiyadanli/PasteEx (1,477 stars, C#)
+   URL: https://github.com/huiyadanli/PasteEx
+   Desc: :clipboard: Paste As File 鎶婂壀璐存澘鐨勫唴瀹圭洿鎺ョ矘璐翠负鏂囦欢
+   Keywords: screenshot tool
+   License: GPL-3.0
+
+519. jtheoof/swappy (1,477 stars, C)
+   URL: https://github.com/jtheoof/swappy
+   Desc: A Wayland native snapshot editing tool, inspired by Snappy on macOS
+   Keywords: screenshot tool
+   License: MIT
+
+520. isaackogan/TikTokLive (1,469 stars, Python)
+   URL: https://github.com/isaackogan/TikTokLive
+   Desc: The definitive Python library to receive livestream events (comments, gifts, etc.) in realtime from TikTok LIVE.
+   Keywords: tiktok api
+   License: MIT
+
+521. huandu/facebook (1,469 stars, Go)
+   URL: https://github.com/huandu/facebook
+   Desc: A Facebook Graph API SDK For Go.
+   Keywords: facebook api
+   License: MIT
+
+522. adrianhajdin/project_graphql_blog (1,469 stars, JavaScript)
+   URL: https://github.com/adrianhajdin/project_graphql_blog
+   Desc: With featured and recent posts, categories. full markdown articles, author information, comments, and much more, this fu
+   Keywords: content management system
+   License: N/A
+
+523. vkohaupt/vokoscreenNG (1,469 stars, C++)
+   URL: https://github.com/vkohaupt/vokoscreenNG
+   Desc: vokoscreenNG is a powerful screencast creator in many languages to record the screen, an area or a window (Linux only). 
+   Keywords: screen capture, screenshot tool
+   License: GPL-2.0
+
+524. nioperas06/awesome-django-rest-framework (1,466 stars, N/A)
+   URL: https://github.com/nioperas06/awesome-django-rest-framework
+   Desc:  馃捇馃槏Tools, processes and resources you need to create an awesome API with Django REST Framework
+   Keywords: rest api tool
+   License: GPL-3.0
+
+525. mrcoles/full-page-screen-capture-chrome-extension (1,464 stars, JavaScript)
+   URL: https://github.com/mrcoles/full-page-screen-capture-chrome-extension
+   Desc: One-click full page screen captures in Google Chrome
+   Keywords: screen capture
+   License: MIT
+
+526. darkzOGx/youtube-automation-agent (1,459 stars, JavaScript)
+   URL: https://github.com/darkzOGx/youtube-automation-agent
+   Desc: 馃幀 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE
+   Keywords: auto publish, youtube api
+   License: MIT
+
+527. Azure/data-api-builder (1,453 stars, C#)
+   URL: https://github.com/Azure/data-api-builder
+   Desc: Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.
+   Keywords: rest api tool
+   License: MIT
+
+528. cosenary/Instagram-PHP-API (1,452 stars, PHP)
+   URL: https://github.com/cosenary/Instagram-PHP-API
+   Desc: An easy-to-use PHP Class for accessing Instagram's API.
+   Keywords: instagram api
+   License: BSD-3-Clause
+
+529. facebookarchive/instagram-ruby-gem (1,449 stars, Ruby)
+   URL: https://github.com/facebookarchive/instagram-ruby-gem
+   Desc: The official gem for the Instagram API
+   Keywords: instagram api
+   License: NOASSERTION
+
+530. beyondtranslate/beyondtranslate (1,448 stars, Dart)
+   URL: https://github.com/beyondtranslate/beyondtranslate
+   Desc: BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Fl
+   Keywords: screen capture
+   License: AGPL-3.0
+
+531. mfactory-osaka/ESPTimeCast (1,445 stars, C++)
+   URL: https://github.com/mfactory-osaka/ESPTimeCast
+   Desc: ESPTimeCast鈩?is a sleek, WiFi-connected LED matrix clock and weather display built on ESP8266/ESP32 and MAX7219. It comb
+   Keywords: real-time sync
+   License: NOASSERTION
+
+532. jsattler/BetterCapture (1,444 stars, Swift)
+   URL: https://github.com/jsattler/BetterCapture
+   Desc: The macOS screen recorder for the rest of us - always free and open source with a native look and feel  馃摵
+   Keywords: screen capture
+   License: MIT
+
+533. legeling/PromptHub (1,431 stars, TypeScript)
+   URL: https://github.com/legeling/PromptHub
+   Desc: 涓€娆惧寘鍚簡 Prompt绠＄悊锛孲kill绠＄悊锛孉gent绠＄悊鐨勪竴绔欏紡AI宸ュ叿绠憋紝鍔╀綘楂樻晥绠＄悊鎻愮ず璇嶏紝涓€閿垎鍙憇kills 锛屼竴绔欏紡绠＄悊Agent璧勪骇锛屽苟瀹炵幇浜戝悓姝ワ紝澶囦唤锛岀増鏈鐞?| An all-in-one AI toolbox for
+   Keywords: cloud sync
+   License: AGPL-3.0
+
+534. tschellenbach/Django-facebook (1,419 stars, Python)
+   URL: https://github.com/tschellenbach/Django-facebook
+   Desc: Facebook open graph api implementation using the Django web framework in python
+   Keywords: facebook api
+   License: NOASSERTION
+
+535. Francis-Rings/StableAnimator (1,416 stars, Python)
+   URL: https://github.com/Francis-Rings/StableAnimator
+   Desc: [CVPR2025] We present StableAnimator, the first end-to-end ID-preserving video diffusion framework, which synthesizes hi
+   Keywords: video processing
+   License: MIT
+
+536. tinyfish-io/agentql (1,409 stars, Python)
+   URL: https://github.com/tinyfish-io/agentql
+   Desc: AgentQL is a suite of tools for connecting your AI to the web. Featuring a query language and Playwright integrations fo
+   Keywords: rpa automation, rest api tool
+   License: MIT
+
+537. loklak/loklak_server (1,390 stars, Java)
+   URL: https://github.com/loklak/loklak_server
+   Desc: Distributed Open Source twitter and social media message search server that anonymously collects, shares, dumps and inde
+   Keywords: twitter api
+   License: LGPL-2.1
+
+538. relaticle/relaticle (1,388 stars, PHP)
+   URL: https://github.com/relaticle/relaticle
+   Desc: Open-source CRM with native AI agent support. 30 MCP tools, REST API, self-hosted. Built with Laravel & Filament
+   Keywords: rest api tool
+   License: AGPL-3.0
+
+539. chrismccord/render_sync (1,385 stars, Ruby)
+   URL: https://github.com/chrismccord/render_sync
+   Desc: Real-time Rails Partials
+   Keywords: real-time sync
+   License: NOASSERTION
+
+540. NVIDIA/VideoProcessingFramework (1,382 stars, C++)
+   URL: https://github.com/NVIDIA/VideoProcessingFramework
+   Desc: Set of Python bindings to C++ libraries which provides full HW acceleration for video decoding, encoding and GPU-acceler
+   Keywords: video processing
+   License: Apache-2.0
+
+541. LucklySpace/Lucky-client (1,372 stars, TypeScript)
+   URL: https://github.com/LucklySpace/Lucky-client
+   Desc: A cross-platform instant messaging client application built with Tauri and Vue 3, featuring one-to-one chat, group chat,
+   Keywords: screen capture
+   License: N/A
+
+542. openilink/openilink-hub (1,369 stars, Go)
+   URL: https://github.com/openilink/openilink-hub
+   Desc: 寮€婧愬井淇?Bot 绠＄悊骞冲彴 + App 搴旂敤甯傚満 | Self-hosted WeChat Bot Platform with App Marketplace | Lark 路 Slack 路 Discord 路 DingTalk 路 Gi
+   Keywords: slack bot
+   License: MIT
+
+543. met4citizen/TalkingHead (1,367 stars, JavaScript)
+   URL: https://github.com/met4citizen/TalkingHead
+   Desc: Talking Head (3D): A JavaScript class for real-time lip-sync using full-body 3D avatars.
+   Keywords: real-time sync
+   License: MIT
+
+544. Endava/cats (1,359 stars, Java)
+   URL: https://github.com/Endava/cats
+   Desc: CATS is a REST API Fuzzer and negative testing tool for OpenAPI endpoints. CATS automatically  generates, runs and repor
+   Keywords: rest api tool
+   License: Apache-2.0
+
+545. saucepleez/taskt (1,353 stars, C#)
+   URL: https://github.com/saucepleez/taskt
+   Desc: taskt (pronounced 'tasked' and formely sharpRPA) is free and open-source robotic process automation (rpa) built in C# po
+   Keywords: rpa automation
+   License: Apache-2.0
+
+546. Jefferson-Henrique/GetOldTweets-python (1,343 stars, Python)
+   URL: https://github.com/Jefferson-Henrique/GetOldTweets-python
+   Desc: A project written in Python to get old tweets, it bypass some limitations of Twitter Official API.
+   Keywords: twitter api
+   License: MIT
+
+547. mishk0/slack-bot-api (1,342 stars, JavaScript)
+   URL: https://github.com/mishk0/slack-bot-api
+   Desc: :rocket: Simple way to control your Slack Bot
+   Keywords: slack bot
+   License: MIT
+
+548. sulu/sulu (1,336 stars, PHP)
+   URL: https://github.com/sulu/sulu
+   Desc: Core framework that implements the functionality of the Sulu content management system
+   Keywords: content management system
+   License: MIT
+
+549. huaying/instagram-crawler (1,333 stars, Python)
+   URL: https://github.com/huaying/instagram-crawler
+   Desc: Get Instagram posts/profile/hashtag data without using Instagram API
+   Keywords: instagram api
+   License: MIT
+
+550. slackapi/slack-github-action (1,331 stars, JavaScript)
+   URL: https://github.com/slackapi/slack-github-action
+   Desc: Send data into Slack using this GitHub Action!
+   Keywords: slack bot
+   License: MIT
+
+551. Netflix/hubcommander (1,309 stars, Python)
+   URL: https://github.com/Netflix/hubcommander
+   Desc: A Slack bot for GitHub organization management -- and other things too
+   Keywords: slack bot
+   License: Apache-2.0
+
+552. sebastianfeldmann/phpbu (1,306 stars, PHP)
+   URL: https://github.com/sebastianfeldmann/phpbu
+   Desc: PHP Backup Utility - Creates and encrypts database and file backups, syncs your backups to other servers or cloud servic
+   Keywords: cloud sync
+   License: NOASSERTION
+
+553. wulkano/Aperture (1,303 stars, Swift)
+   URL: https://github.com/wulkano/Aperture
+   Desc: Record the screen on macOS
+   Keywords: screen capture
+   License: MIT
+
+554. blogifierdotnet/Blogifier (1,300 stars, C#)
+   URL: https://github.com/blogifierdotnet/Blogifier
+   Desc: Blogifier is an open-source publishing platform Written in ASP.NET and Blazor WebAssembly. With Blogifier make a persona
+   Keywords: blog publishing
+   License: MIT
+
+555. ximu3/vnite (1,299 stars, TypeScript)
+   URL: https://github.com/ximu3/vnite
+   Desc: A unified platform to organize your game collection, track gameplay, with real-time cloud sync across devices and detail
+   Keywords: real-time sync, cloud sync
+   License: GPL-3.0
+
+556. szdc/tiktok-api (1,291 stars, TypeScript)
+   URL: https://github.com/szdc/tiktok-api
+   Desc: Unofficial API wrapper for TikTok
+   Keywords: tiktok api
+   License: MIT
+
+557. shahen94/react-native-video-processing (1,290 stars, Objective-C)
+   URL: https://github.com/shahen94/react-native-video-processing
+   Desc: Native Video editing/trimming/compressing  :movie_camera: library for React-Native
+   Keywords: video processing
+   License: MIT
+
+558. DialmasterOrg/Youtarr (1,285 stars, TypeScript)
+   URL: https://github.com/DialmasterOrg/Youtarr
+   Desc: Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex
+   Keywords: content scheduler
+   License: ISC
+
+559. scrapinghub/slackbot (1,279 stars, Python)
+   URL: https://github.com/scrapinghub/slackbot
+   Desc: A chat bot for Slack (https://slack.com).
+   Keywords: slack bot
+   License: MIT
+
+560. specstoryai/getspecstory (1,259 stars, Go)
+   URL: https://github.com/specstoryai/getspecstory
+   Desc: Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skil
+   Keywords: cloud sync
+   License: Apache-2.0
+
+561. AutoHotkey/AutoHotkey-v1.0 (1,250 stars, C++)
+   URL: https://github.com/AutoHotkey/AutoHotkey-v1.0
+   Desc: AutoHotkey is a powerful and easy to use scripting language for desktop automation on Windows.
+   Keywords: desktop automation
+   License: GPL-2.0
+
+562. GauravSingh9356/J.A.R.V.I.S (1,247 stars, Python)
+   URL: https://github.com/GauravSingh9356/J.A.R.V.I.S
+   Desc: Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Rec
+   Keywords: youtube api
+   License: MIT
+
+563. BeaconCMS/beacon (1,244 stars, Elixir)
+   URL: https://github.com/BeaconCMS/beacon
+   Desc: Open-source Content Management System (CMS) built with Phoenix LiveView. Faster render times to boost SEO performance, e
+   Keywords: content management system
+   License: MIT
+
+564. Francis-Rings/StableAvatar (1,243 stars, Python)
+   URL: https://github.com/Francis-Rings/StableAvatar
+   Desc: We present StableAvatar, the first end-to-end video diffusion transformer, which synthesizes infinite-length high-qualit
+   Keywords: video processing
+   License: MIT
+
+565. tmux-plugins/tmux-logging (1,242 stars, Shell)
+   URL: https://github.com/tmux-plugins/tmux-logging
+   Desc: Easy logging and screen capturing for Tmux.
+   Keywords: screen capture
+   License: MIT
+
+566. OneMoreGres/ScreenTranslator (1,239 stars, C++)
+   URL: https://github.com/OneMoreGres/ScreenTranslator
+   Desc: Screen capture, OCR and translation tool.
+   Keywords: screen capture
+   License: MIT
+
+567. nenosinc/iCloudDocumentSync (1,238 stars, Objective-C)
+   URL: https://github.com/nenosinc/iCloudDocumentSync
+   Desc: Integrate iCloud into iOS document projects with one-line code methods. Sync, upload, manage, and remove documents from 
+   Keywords: cloud sync
+   License: NOASSERTION
+
+568. owen2345/camaleon-cms (1,237 stars, Ruby)
+   URL: https://github.com/owen2345/camaleon-cms
+   Desc: Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails
+   Keywords: content management system
+   License: MIT
+
+569. egbertbouman/youtube-comment-downloader (1,234 stars, Python)
+   URL: https://github.com/egbertbouman/youtube-comment-downloader
+   Desc: Simple script for downloading Youtube comments without using the Youtube API
+   Keywords: youtube api
+   License: MIT
+
+570. dchrastil/ScrapedIn (1,223 stars, Python)
+   URL: https://github.com/dchrastil/ScrapedIn
+   Desc: A tool to scrape LinkedIn without API restrictions for data reconnaissance
+   Keywords: linkedin api
+   License: N/A
+
+571. intel/media-driver (1,218 stars, C)
+   URL: https://github.com/intel/media-driver
+   Desc: Intel Graphics Media Driver to support hardware decode, encode and video processing.
+   Keywords: video processing
+   License: NOASSERTION
+
+572. polius/FileSync (1,210 stars, JavaScript)
+   URL: https://github.com/polius/FileSync
+   Desc: Send files from one device to many in real-time.
+   Keywords: real-time sync
+   License: MIT
+
+573. rampatra/jbot (1,206 stars, Java)
+   URL: https://github.com/rampatra/jbot
+   Desc: Make Slack and Facebook Bots in Java.
+   Keywords: slack bot
+   License: GPL-3.0
+
+574. gyoridavid/short-video-maker (1,205 stars, TypeScript)
+   URL: https://github.com/gyoridavid/short-video-maker
+   Desc: Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST A
+   Keywords: tiktok api, instagram api, youtube api
+   License: MIT
+
+575. xland/ScreenCapture (1,201 stars, C++)
+   URL: https://github.com/xland/ScreenCapture
+   Desc: A feature-rich screen capture software with just a single executable file
+   Keywords: screen capture
+   License: NOASSERTION
+
+576. testsigmahq/testsigma (1,200 stars, Java)
+   URL: https://github.com/testsigmahq/testsigma
+   Desc: Testsigma is an agentic test automation platform powered by AI-coworkers that work alongside QA teams to simplify testin
+   Keywords: desktop automation
+   License: Apache-2.0
+
+577. Viralmaniar/Powershell-RAT (1,198 stars, Python)
+   URL: https://github.com/Viralmaniar/Powershell-RAT
+   Desc: Python based backdoor that uses Gmail to exfiltrate data through attachment. This RAT will help during red team engageme
+   Keywords: screen capture
+   License: N/A
+
+578. TYPO3/typo3 (1,195 stars, PHP)
+   URL: https://github.com/TYPO3/typo3
+   Desc: The TYPO3 Core - Enterprise Content Management System. Synchronized mirror of https://review.typo3.org/q/project:Package
+   Keywords: content management system
+   License: GPL-2.0
+
+579. DevonCrawford/Video-Editing-Automation (1,195 stars, C)
+   URL: https://github.com/DevonCrawford/Video-Editing-Automation
+   Desc: Toolkit of algorithms to automate the video editing process
+   Keywords: video processing
+   License: GPL-3.0
+
+580. Ovilia/Polyvia (1,163 stars, JavaScript)
+   URL: https://github.com/Ovilia/Polyvia
+   Desc: Low-Poly Image and Video Processing
+   Keywords: video processing
+   License: MIT
+
+581. ashishpatel26/Treasure-of-Transformers (1,155 stars, Jupyter Notebook)
+   URL: https://github.com/ashishpatel26/Treasure-of-Transformers
+   Desc: 馃拋 Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo 
+   Keywords: video processing
+   License: MIT
+
+582. needleworm/bhban_rpa (1,151 stars, Python)
+   URL: https://github.com/needleworm/bhban_rpa
+   Desc: <6臧滌洈 旃?鞐呺毳?頃橂（ 毵岇棎 雭濍偞電?鞐呺 鞛愲彊頇?靸濍姤於滍寪靷? 2020)>鞚?鞓堨牅 旖旊摐鞛呺媹雼? 韺岇澊鞃潉 頃?氩堧弰 氚办泴氤?鞝?鞐嗠姅 攵勲摛鞚?鞙勴暅 鞓堨牅鞚措┌, 鞐戩厐攵€韯?霐旍瀽鞚? 毵ろ伂搿? 韥·毵侁箤歆€ 鞐呺 鞛愲彊頇旍檧 甏€霠悳 雼れ枒
+   Keywords: rpa automation
+   License: N/A
+
+583. jlobos/instagram-web-api (1,149 stars, JavaScript)
+   URL: https://github.com/jlobos/instagram-web-api
+   Desc: 馃こ Instagram Private Web API client for Node
+   Keywords: instagram api
+   License: MIT
+
+584. ChimeraCoder/anaconda (1,137 stars, Go)
+   URL: https://github.com/ChimeraCoder/anaconda
+   Desc: A Go client library for the Twitter 1.1 API
+   Keywords: twitter api
+   License: MIT
+
+585. iszhouhua/social-media-copilot (1,126 stars, TypeScript)
+   URL: https://github.com/iszhouhua/social-media-copilot
+   Desc: 绀惧獟鍔╂墜寮€婧愮増 - 灏忕孩涔︺€佹姈闊炽€佸揩鎵嬬瓑骞冲彴鏁版嵁閲囬泦鐨勬祻瑙堝櫒鎻掍欢锛屽彲閫氳繃API璋冪敤锛屾敮鎸丏ocker閮ㄧ讲銆?
+   Keywords: xiaohongshu api, douyin api
+   License: GPL-3.0
+
+586. EricJMarti/inventory-hunter (1,117 stars, Python)
+   URL: https://github.com/EricJMarti/inventory-hunter
+   Desc: 鈿★笍 Get notified as soon as your next CPU, GPU, or game console is in stock
+   Keywords: slack bot
+   License: MIT
+
+587. slack-ruby/slack-ruby-bot (1,112 stars, Ruby)
+   URL: https://github.com/slack-ruby/slack-ruby-bot
+   Desc: The easiest way to write a Slack bot in Ruby.
+   Keywords: slack bot
+   License: MIT
+
+588. tweetstream/tweetstream (1,104 stars, Ruby)
+   URL: https://github.com/tweetstream/tweetstream
+   Desc: A simple EventMachine-based library for consuming Twitter's Streaming API.
+   Keywords: twitter api
+   License: MIT
+
+589. skalesapp/skales (1,100 stars, TypeScript)
+   URL: https://github.com/skalesapp/skales
+   Desc: Your personal AI desktop agent for Windows, macOS, Linux & Android. Set a goal, it works on its own. Teams (pair two des
+   Keywords: desktop automation
+   License: NOASSERTION
+
+590. criso/fbgraph (1,086 stars, JavaScript)
+   URL: https://github.com/criso/fbgraph
+   Desc: NodeJs module to access the facebook graph api
+   Keywords: facebook api
+   License: N/A
+
+591. VikParuchuri/apartment-finder (1,059 stars, Python)
+   URL: https://github.com/VikParuchuri/apartment-finder
+   Desc: A Slack bot that helps you find an apartment.
+   Keywords: slack bot
+   License: MIT
+
+592. test-zeus-ai/testzeus-hercules (1,055 stars, Python)
+   URL: https://github.com/test-zeus-ai/testzeus-hercules
+   Desc: Hercules is the world鈥檚 first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validatio
+   Keywords: rpa automation
+   License: AGPL-3.0
+
+593. Netflix/Priam (1,039 stars, Java)
+   URL: https://github.com/Netflix/Priam
+   Desc: Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
+   Keywords: token management
+   License: Apache-2.0
+
+594. Jacobtims/filament-breezy (1,039 stars, PHP)
+   URL: https://github.com/Jacobtims/filament-breezy
+   Desc: Filament plugin for customizable profile page, two factor authentication & Sanctum token management.
+   Keywords: token management
+   License: MIT
+
+595. googlearchive/android-ScreenCapture (1,022 stars, Java)
+   URL: https://github.com/googlearchive/android-ScreenCapture
+   Desc: Migrated:
+   Keywords: screen capture
+   License: Apache-2.0
+
+596. daylightstudio/FUEL-CMS (1,021 stars, PHP)
+   URL: https://github.com/daylightstudio/FUEL-CMS
+   Desc: A CodeIgniter Content Management System
+   Keywords: content management system
+   License: N/A
+
+597. zhu1090093659/deepseek-pp (1,015 stars, TypeScript)
+   URL: https://github.com/zhu1090093659/deepseek-pp
+   Desc: DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skills, automation, web search, and conversat
+   Keywords: browser extension automation
+   License: Apache-2.0
+
